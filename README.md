@@ -8,8 +8,8 @@ Ao longo da minha carreira, participei de projetos que vão desde **sistemas cor
 ## ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/Gabriel-Silva-7">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Silva-7&show_icons=true&include_all_commits=true&theme=dracula" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Silva-7&layout=compact&langs_count=8&theme=dracula" />
+    <img height="180" src="https://github-readme-stats-eight-ebon-i79dwaqf7a.vercel.app/api?username=Gabriel-Silva-7&show_icons=true&include_all_commits=true&theme=dracula" />
+    <img height="180" src="https://github-readme-stats-eight-ebon-i79dwaqf7a.vercel.app/api/top-langs/?username=Gabriel-Silva-7&layout=compact&langs_count=8&theme=dracula" />
   </a>
 </div>
 
